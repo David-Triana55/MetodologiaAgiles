@@ -1,4 +1,3 @@
-# primer-repositorio
 video Metodologia agiles
 Triana Gomez David Felipe 2220231037 
 Muñoz Anderson Duban  2220231050
